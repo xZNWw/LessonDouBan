@@ -1,13 +1,13 @@
 //
 //  AppDelegate.m
-//  瀑布流
+//  传值
 //
-//  Created by lanou3g on 16/5/5.
+//  Created by lanou3g on 16/3/19.
 //  Copyright © 2016年 邢晓伟. All rights reserved.
 //
 
 #import "AppDelegate.h"
-
+#import "firstViewController.h"
 @interface AppDelegate ()
 
 @end
@@ -17,6 +17,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    self.window  = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
+    [self.window setBackgroundColor:[UIColor whiteColor]];
+    [self.window makeKeyAndVisible];
+    //[self.window setRootViewController:[RootViewController new]];
+    UINavigationController *rootNC = [[UINavigationController alloc]initWithRootViewController:[firstViewController new]];
+    self.window.rootViewController = rootNC;
     return YES;
 }
 
