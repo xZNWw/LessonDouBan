@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>musicName</key>
+		<string>匆匆那年</string>
+		<key>backImage</key>
+		<string>http://music.163.com/api/img/blur/2542070884980240?param375.000000y667.000000</string>
+		<key>ablumImage</key>
+		<string>http://p4.music.126.net/yXyeAl-7m0tqfx4AX7BDSQ==/2542070884980240.jpg</string>
+		<key>singer</key>
+		<string>王菲</string>
+		<key>ablum</key>
+		<string>匆匆那年</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>李白</string>
+		<key>backImage</key>
+		<string>http://music.163.com/api/img/blur/1362294906878892?param375.000000y667.000000</string>
+		<key>ablumImage</key>
+		<string>http://p4.music.126.net/Qdi7VcmK2-FH9na5N8CtdA==/1362294906878892.jpg</string>
+		<key>singer</key>
+		<string>李荣浩</string>
+		<key>ablum</key>
+		<string>模特</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>LOSER</string>
+		<key>backImage</key>
+		<string>http://music.163.com/api/img/blur/2889516558887956?param375.000000y667.000000</string>
+		<key>ablumImage</key>
+		<string>http://p3.music.126.net/18ZF3M8ZMjeBzuRnnNvBKA==/2889516558887956.jpg</string>
+		<key>singer</key>
+		<string>BIGBANG</string>
+		<key>ablum</key>
+		<string>M</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>年轮</string>
+		<key>backImage</key>
+		<string>http://music.163.com/api/img/blur/7828522790653022?param375.000000y667.000000</string>
+		<key>ablumImage</key>
+		<string>http://p4.music.126.net/CvMh65aoJi0yz3QbbInhfQ==/7828522790653022.jpg</string>
+		<key>singer</key>
+		<string>张碧晨</string>
+		<key>ablum</key>
+		<string>花千骨 电视原声带</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>喜欢你</string>
+		<key>backImage</key>
+		<string>http://music.163.com/api/img/blur/8896148580676276?param375.000000y667.000000</string>
+		<key>ablumImage</key>
+		<string>http://p4.music.126.net/u_1EudmF8Swgow6vfgYe1g==/8896148580676276.jpg</string>
+		<key>singer</key>
+		<string>邓紫棋</string>
+		<key>ablum</key>
+		<string>喜欢你</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>走在冷风中</string>
+		<key>backImage</key>
+		<string>http://music.163.com/api/img/blur/5747147278487004?param375.000000y667.000000</string>
+		<key>ablumImage</key>
+		<string>http://p3.music.126.net/M2u4Rb0IRpxwPUMyGmY2_w==/5747147278487004.jpg</string>
+		<key>singer</key>
+		<string>刘思涵</string>
+		<key>ablum</key>
+		<string>拥抱你</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>I Am You</string>
+		<key>backImage</key>
+		<string>http://music.163.com/api/img/blur/932385860406884?param375.000000y667.000000
+20</string>
+		<key>ablumImage</key>
+		<string>http://p3.music.126.net/ZGBvv1kp8rlq1Mk7iO0aHA==/932385860406884.jpg</string>
+		<key>singer</key>
+		<string>Kim Taylor</string>
+		<key>ablum</key>
+		<string>I Am You</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>Let Her Go</string>
+		<key>backImage</key>
+		<string>http://music.163.com/api/img/blur/2535473814659459?param375.000000y667.000000</string>
+		<key>ablumImage</key>
+		<string>http://p3.music.126.net/cVmXSmOnNnlN4yDSgu8D0A==/2535473814659459.jpg</string>
+		<key>singer</key>
+		<string>Passenger</string>
+		<key>ablum</key>
+		<string>All the Little Lights</string>
+	</dict>
+</array>
+</plist>
